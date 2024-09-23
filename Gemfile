@@ -4,6 +4,8 @@ ruby "3.2.2"
 
 gem "rails", "~> 7.1.4"
 
+gem "roo", "~> 2.10.0"
+
 gem "sqlite3", ">= 1.4"
 
 gem "puma", ">= 5.0"
